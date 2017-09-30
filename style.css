@@ -4,18 +4,18 @@ background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.
 }
 
 h1 {
-  color: white; 
+  color: #edeff5; 
   /*try #edeff5 for all font colors?*/
   font-family: helvetica, arial, sans-serif;
 }
 
 h3 {
-  color: white;
+  color: #edeff5;
   font-family: helvetica, arial, sans-serif;
 }
 
 p {
-  color: white; 
+  color: #edeff5; 
   font-family: helvetica, arial, sans-serif;
 }
 
