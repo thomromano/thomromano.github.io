@@ -4,4 +4,11 @@ body {
 
 h1 {
   color: darkgray;
+  font-family: helvetica, arial, sans-serif;
 }
+
+h3 {
+  color: darkgray;
+  font-family: helvetica, arial, sans-serif;
+}
+
