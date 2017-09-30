@@ -1,20 +1,21 @@
 body {
-background-color: #9d99a3;
+background-color: #47454d;
 background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
 }
 
 h1 {
-  color: black;
+  color: white; 
+  /*try #edeff5 for all font colors?*/
   font-family: helvetica, arial, sans-serif;
 }
 
 h3 {
-  color: black;
+  color: white;
   font-family: helvetica, arial, sans-serif;
 }
 
 p {
-  color: black; /* change to #2e2b2e; */
+  color: white; 
   font-family: helvetica, arial, sans-serif;
 }
 
