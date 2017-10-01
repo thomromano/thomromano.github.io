@@ -51,9 +51,9 @@ p {
 }
 
 li {
-  font-size: 110%;
+  font-size: 100%;
   display: inline;
-  margin-right: 100px;
+  margin-right: 200px;
   list-style-type: none;
   color: white;
   font-family: helvetica, arial, sans-serif;
