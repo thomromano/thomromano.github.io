@@ -1,6 +1,9 @@
 body {
-background-color: #9e959e;
-background-image: url("https://static.pexels.com/photos/237950/pexels-photo-237950.jpeg");
+    background-image: url("https://static.pexels.com/photos/237950/pexels-photo-237950.jpeg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-color: #9e959e;
 }
 
 .boxed {
