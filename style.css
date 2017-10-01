@@ -3,6 +3,11 @@ background-color: #47454d;
 background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
 }
 
+.boxed {
+  border: 1 px solid white;
+  border-radius: 20px;
+}
+
 h1 {
   color: white; 
   /*try #edeff5 for all font colors?*/
