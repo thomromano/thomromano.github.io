@@ -5,7 +5,7 @@ background-image: url("https://static.pexels.com/photos/237950/pexels-photo-2379
 
 .boxed {
   border: 3 px solid white;
-  border-radius: 20px;
+  /*border-radius: 20px; */
   background-color: rgba(7, 7, 7, 0.75);
 background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
  width:80%;
@@ -33,6 +33,7 @@ h4 {
 }
 
 p {
+  padding: 20px;
   text-align: center;
   color: white; 
   font-family: helvetica, arial, sans-serif;
@@ -44,6 +45,6 @@ hr {
     border: 0;
     border-top: 1px solid #ccc;
     margin: 1em 0;
-    padding: 0;
+    padding: 70px;
 }
 
