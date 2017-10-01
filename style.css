@@ -9,7 +9,12 @@ h1 {
   font-family: helvetica, arial, sans-serif;
 }
 
-h3, h4 {
+h3 {
+  color: white;
+  font-family: helvetica, arial, sans-serif;
+}
+
+h4 {
   color: white;
   font-family: helvetica, arial, sans-serif;
 }
