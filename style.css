@@ -1,11 +1,13 @@
 body {
-background-color: #47454d;
-background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+background-color: #9e959e;
+background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
 }
 
 .boxed {
   border: 1 px solid white;
   border-radius: 20px;
+  background-color: #47454d;
+background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
 }
 
 h1 {
