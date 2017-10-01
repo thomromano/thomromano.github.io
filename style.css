@@ -17,20 +17,28 @@ background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.
 }
 
 h1 {
-  text-align: top-left;
+  text-align: center-left;
+    margin: 10px;
   color: white; 
   /*try #edeff5 for all font colors?*/
   font-family: helvetica, arial, sans-serif;
 }
 
 h3 {
-  text-align: top-right;
+  text-align: center-right;
+    margin: 20px;
   color: white;
   font-family: helvetica, arial, sans-serif;
 }
 
 h4 {
   text-align: left;
+  color: white;
+  font-family: helvetica, arial, sans-serif;
+}
+
+h5 {
+  text-align: center;
   color: white;
   font-family: helvetica, arial, sans-serif;
 }
