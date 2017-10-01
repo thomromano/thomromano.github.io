@@ -4,29 +4,33 @@ background-image: url("https://www.transparenttextures.com/patterns/asfalt-light
 }
 
 .boxed {
-  border: 1 px solid white;
+  border: 3 px solid white;
   border-radius: 20px;
   background-color: #47454d;
 background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
 }
 
 h1 {
+  text-align: center;
   color: white; 
   /*try #edeff5 for all font colors?*/
   font-family: helvetica, arial, sans-serif;
 }
 
 h3 {
+  text-align: center;
   color: white;
   font-family: helvetica, arial, sans-serif;
 }
 
 h4 {
+  text-align: center;
   color: white;
   font-family: helvetica, arial, sans-serif;
 }
 
 p {
+  text-align: center;
   color: white; 
   font-family: helvetica, arial, sans-serif;
 }
