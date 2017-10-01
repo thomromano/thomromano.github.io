@@ -7,6 +7,8 @@ body {
 }
 
 .boxed {
+  border: 3 px solid white;
+  /*border-radius: 20px; */
   background-color: rgba(7, 7, 7, 0.65);
 background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
  width: 80%;
@@ -50,15 +52,6 @@ p {
   font-family: helvetica, arial, sans-serif;
 }
 
-li {
-  font-size: 100%;
-  display: inline;
-  margin-right: 50px;
-  list-style-type: none;
-  color: white;
-  font-family: helvetica, arial, sans-serif;
-}
-
 hr {
     display: block;
     width: 70%;
@@ -68,4 +61,3 @@ hr {
     margin: 1em 0;
     padding: 10px;
 }
-
