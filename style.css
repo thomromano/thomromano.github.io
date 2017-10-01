@@ -37,7 +37,8 @@ h4 {
 
 p {
   padding: 20px;
-  text-align: center;
+  text-align: right;
+    margin: 20px;
   color: white; 
   font-family: helvetica, arial, sans-serif;
 }
